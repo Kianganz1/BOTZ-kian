@@ -12,8 +12,8 @@ global.prems = ['6283845409710']
 //=============『 Info Owner 』============== //
 global.nameowner = 'Kian'
 global.numberowner = '6283845409710'
-global.instagram = ''
-global.github = ''
+global.instagram = 'https://github.com/Kianganz1'
+global.github = 'https://github.com/Kianganz1'
 global.dana = '083845409710'
 global.pulsa = '083845409710'
 global.gopay = ''
@@ -22,7 +22,7 @@ global.gopay = ''
 global.namebot = 'KIAN BOTZ'
 global.gc = ''
 global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = ''
+global.webm = 'https://github.com/Kianganz1'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
