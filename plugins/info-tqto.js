@@ -9,14 +9,16 @@ bear = "Source Code"
 let esce = `
 BIG THANKS TO
 
-⤿ Nurutomo
+ Nurutomo
     📮 https://github.com/Nurutomo
-⤿ Elyas
+ Elyas
     📮 https://github.com/Paquito1923
-⤿ Hyzer Official
+ Hyzer Official
     📮 https://github.com/Hyzerr
-⤿ Krizyn Ofc
+ Krizyn Ofc
     📮 https://github.com/krizynofc
+ Kianganz1
+    📮https://github.com/Kianganz1
     
 THANKS PARA DONASI YANG TERHORMAT
 `
