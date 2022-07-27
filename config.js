@@ -26,8 +26,8 @@ global.webm = 'https://github.com/Kianganz1'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ini juga ganti 
+global.fotonya1 = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.popculture.id%2Fwp-content%2Fuploads%2F2021%2F07%2Fdemon10.jpg&imgrefurl=https%3A%2F%2Fpopculture.id%2Fanime-pemburu-iblis-terbaik%2F&tbnid=qSF3JTREGFbzFM&vet=1&docid=_HDvgTg8zLXmeM&w=800&h=450&source=sh%2Fx%2Fim' //ganti jadi foto bot mu
+global.fotonya2 = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.popculture.id%2Fwp-content%2Fuploads%2F2021%2F07%2Fdemon10.jpg&imgrefurl=https%3A%2F%2Fpopculture.id%2Fanime-pemburu-iblis-terbaik%2F&tbnid=qSF3JTREGFbzFM&vet=1&docid=_HDvgTg8zLXmeM&w=800&h=450&source=sh%2Fx%2Fim' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'KIAN BOTZ'
