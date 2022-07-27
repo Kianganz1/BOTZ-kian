@@ -321,7 +321,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: '𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈',
+            buttonText: '🐤𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈 𝐂𝐎𝐊🐤',
             listType: 1,
             footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini🤖",
             mtype: 'listMessage',
@@ -534,8 +534,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: '', 
-               url: 
+               displayText: '🥀', 
+               url: gc
              }
 
            },
