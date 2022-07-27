@@ -18,7 +18,7 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/siang.jpg') //Gambarnye
 					},
-					"title": "MikeBot", //Kasih namalu 
+					"title": "KianBotz", //Kasih namalu 
 					"description": "SELF BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
@@ -39,7 +39,7 @@ const ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'MikeBot', //Kasih namalu
+                            message: 'KianBot', //Kasih namalu
                             orderTitle: 'Bang',
                             thumbnail: fs.readFileSync('./media/siang.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
@@ -123,7 +123,7 @@ const fvideo = {
                  "videoMessage": { 
                  "title":"hallo bang",
                  "h": `Hmm`,
-                 'seconds': '99999', 
+                 'seconds': '999999999', 
                  'caption': 'Halo bang',
                  'jpegThumbnail': fs.readFileSync('./media/siang.jpg')
                         }
@@ -157,7 +157,7 @@ const fgif = {
                  "videoMessage": { 
                  "title":"hallo bang",
                  "h": `Hmm`,
-                 'seconds': '99999', 
+                 'seconds': '99999999', 
                  'gifPlayback': 'true', 
                  'caption': 'Halo bang',
                  'jpegThumbnail': fs.readFileSync('./media/siang.jpg')
