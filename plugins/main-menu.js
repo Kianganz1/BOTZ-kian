@@ -1,6 +1,6 @@
 /**
 * SCRIPT BOT ORI by hyzer official
-* CREATOR BY KRIZYN OFFICIAL
+* CREATOR BY ArullOfc
 * MAU BANYAK LAGI FITUR NYA 
 * RECODE SENDIRI BANH JANGAN MAU ENAK AJA
 * NOTE MASIH ADA BUG STIKER DAN LAIN 
@@ -22,40 +22,41 @@ let moment = require('moment-timezone')
 const defaultMenu = {
   before:`
 ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣
-┃➵͜͡✪ 𝚄𝚂𝙴𝚁 : *%name*
-┃➵͜͡✪ 𝚁𝙴𝙼𝙰𝙸𝙽𝙸𝙽𝙶 𝙻𝙸𝙼𝙸𝚃 : *%limit* 𝙻𝙸𝙼𝙸𝚃
-┃➵͜͡✪ 𝚁𝙾𝙻𝙴 : *%role*
-┃➵͜͡✪ 𝙻𝙴𝚅𝙴𝙻 : *%level (%exp / %maxexp)* 
-┃➵͜͡✪ 𝚃𝙾𝚃𝙰𝙻 𝚇𝙿 : *%totalexp* 𝚇𝙿
+┃ 𝚄𝚂𝙴𝚁 : *%name*
+┃ 𝚁𝙴𝙼𝙰𝙸𝙽𝙸𝙽𝙶 𝙻𝙸𝙼𝙸𝚃 : *%limit* 𝙻𝙸𝙼𝙸𝚃
+┃ 𝚁𝙾𝙻𝙴 : *%role*
+┃ 𝙻𝙴𝚅𝙴𝙻 : *%level (%exp / %maxexp)* 
+┃ 𝚃𝙾𝚃𝙰𝙻 𝚇𝙿 : *%totalexp* 𝚇𝙿
 ┃
 ┃──〔  𝐓 𝐎 𝐃 𝐀 𝐘  〕─⬣
-┃➵͜͡✪ 𝚃𝙾𝙳𝙰𝚈 : *%week %weton* 
-┃➵͜͡✪ 𝙳𝙰𝚃𝙴 : *%date*
-┃➵͜͡✪ 𝙳𝙰𝚃𝙴 𝙸𝚂𝙻𝙰𝙼𝙸𝙲 : *%dateIslamic*
-┃➵͜͡✪ 𝚃𝙸𝙼𝙴 : *%time*
+┃ 𝚃𝙾𝙳𝙰𝚈 : *%week %weton* 
+┃ 𝙳𝙰𝚃𝙴 : *%date*
+┃ 𝙳𝙰𝚃𝙴 𝙸𝚂𝙻𝙰𝙼𝙸𝙲 : *%dateIslamic*
+┃ 𝚃𝙸𝙼𝙴 : *%time*
 ┃
 ┃──〔  𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄  〕─⬣
-┃➵͜͡✪ 𝚄𝙿𝚃𝙸𝙼𝙴 : *%uptime*
-┃➵͜͡✪ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : %rtotalreg 𝚍𝚊𝚛𝚒 %totalreg 
-┃➵͜͡✪ 𝙼𝙴𝙼𝙾𝚁𝚈 𝚄𝚂𝙴𝙳 : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
+┃ 𝚄𝙿𝚃𝙸𝙼𝙴 : *%uptime*
+┃ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : %rtotalreg 𝚍𝚊𝚛𝚒 %totalreg 
+┃ 𝙼𝙴𝙼𝙾𝚁𝚈 𝚄𝚂𝙴𝙳 : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 ╰─────────────⬣
 %readmore`.trimStart(), 
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
-  body: '┃⫹⫺ %cmd %islimit %isPremium',
+  body: '┃ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ KIAN BOTZ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
-⫹⫺ Allah SWT
-⫹⫺ Orang Tua
-⫹⫺ Kesabaran
-⫹⫺ Penyemangat
-⫹⫺ Nurutomo
-⫹⫺ Ilmanhdyt
-⫹⫺ Elyas
-⫹⫺ Hyzer
-⫹⫺ KrizynOfc
-⫹⫺ RielgansOfc
+ Allah SWT
+ Orang Tua
+ Kesabaran
+ Penyemangat
+ Nurutomo
+ Ilmanhdyt
+ Elyas
+ Hyzer
+ KrizynOfc
+ RielgansOfc
+ ArullOfc
 ╰─────────────⬣
 `,
 }
@@ -312,132 +313,130 @@ let menuu = `┏━━〔 ıll INFO USER llı 〕━㉿
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-   ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲
-
-⫹⫺ Date  : ${week} ${date}
-⫹⫺ Time : ${wib}
+ Date  : ${week} ${date}
+ Time : ${wib}
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: '🐤𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈 𝐂𝐎𝐊🐤',
+            buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini🤖",
+            footerText: 'KIAN BOTZ ",
             mtype: 'listMessage',
             sections: [
               {
       
                 "rows": [{
-                  "title": `☰ ALL MENU`,
+                  "title": ` ALL MENU`,
                   "description": "Menampilkan Menu All",
                   "rowId": '.? all'
                   }, {
-                  "title": "☰ ABSEN MENU",
+                  "title": " ABSEN MENU",
                   "description": "Menampilkan Menu Absen",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "☰ ANIME MENU",
+                  "title": " ANIME MENU",
                   "description": "Menampilkan Menu Anime",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "☰ STICKER  MENU",
+                  "title": " STICKER  MENU",
                   "description": "Menampilkan Menu Sticker",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "☰ DOWNLOAD MENU",
+                  "title": " DOWNLOAD MENU",
                   "description": "Menampilkan Menu Downloader",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "☰ EXP & LIMIT MENU",
+                  "title": " EXP & LIMIT MENU",
                   "description": "Menampilkan Menu Exp",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "☰ FUN MENU",
+                  "title": " FUN MENU",
                   "description": "Menampilkan Menu Fun",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "☰ GAME MENU",
+                  "title": " GAME MENU",
                   "description": "Menampilkan Menu Game",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "☰ GITHUB MENU",
+                  "title": " GITHUB MENU",
                   "description": "Menampilkan Menu Github",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "☰ GROUP MENU",
+                  "title": " GROUP MENU",
                   "description": "Menampilkan Menu Group",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "☰ IMAGE MENU",
+                  "title": " IMAGE MENU",
                   "description": "Menampilkan Menu Image",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "☰ INTERNET MENU",
+                  "title": " INTERNET MENU",
                   "description": "Menampilkan Menu Internet",
                   "rowId": `${_p}? internet`
                 }, {
-                  "title": "☰ ISLAMIC MENU",
+                  "title": " ISLAMIC MENU",
                   "description": "Menampilkan Menu Islam",
                   "rowId": `${_p}? islam`
                 }, {
-                  "title": "☰ KERANG MENU",
+                  "title": " KERANG MENU",
                   "description": "Menampilkan Menu Kerang",
                   "rowId": `${_p}? kerang`
                 }, {
-                  "title": "☰ MAKER MENU",
+                  "title": " MAKER MENU",
                   "description": "Menampilkan Menu Maker",
                   "rowId": `${_p}? maker`
                 }, {
-                  "title": "☰ OWNER MENU",
+                  "title": " OWNER MENU",
                   "description": "Menampilkan Menu Owner",
                   "rowId": `${_p}? owner`
                 }, {
-                  "title": "☰ CHANGE VOICE MENU",
+                  "title": " CHANGE VOICE MENU",
                   "description": "Menampilkan Menu Voice Changer",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "☰ PREMIUM MENU",
+                  "title": " PREMIUM MENU",
                   "description": "Menampilkan Menu Premium",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "☰ QUOTES MENU",
+                  "title": " QUOTES MENU",
                   "description": "Menampilkan Menu Quotes",
                   "rowId": `${_p}? quotes`
                 }, {
-                  "title": "☰ RPG MENU",
+                  "title": " RPG MENU",
                   "description": "Menampilkan Menu Rpg",
                   "rowId": `${_p}? rpg`
                 }, {
-                  "title": "☰ STALKER MENU",
+                  "title": " STALKER MENU",
                   "description": "Menampilkan Menu Stalker",
                   "rowId": `${_p}? stalk`
                 }, {
-                  "title": "☰ SHORT LINK MENU",
+                  "title": " SHORT LINK MENU",
                   "description": "Menampilkan Menu Short Link",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "☰ TOOLS MENU",
+                  "title": " TOOLS MENU",
                   "description": "Menampilkan Menu Tools",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "☰ TEXT MAKER MENU",
+                  "title": " TEXT MAKER MENU",
                   "description": "Menampilkan Maker Text",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "☰ HENTAI MENU",
+                  "title": " HENTAI MENU",
                   "description": "Menampilkan Menu Hentai",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "☰ RANDOM MENU",
+                  "title": " RANDOM MENU",
                   "description": "Menampilkan Menu Random/Gabut",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "☰ TEXT PRO MENU",
+                  "title": " TEXT PRO MENU",
                   "description": "Menampilkan Text Pro Menu",
                   "rowId": `${_p}? textpro`
                 }, {
-                  "title": "☰ PHOTO OXY MENU",
+                  "title": " PHOTO OXY MENU",
                   "description": "Menampilkan Photo Oxy Menu",
                   "rowId": `${_p}? textpro`
                 }
@@ -445,11 +444,11 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "title": "⤿LIST MENU"
                 }, {
                 "rows": [{
-                  "title": ` ☰ OWNER BOT`,
+                  "title": `  OWNER BOT`,
                   "description": "Nomor Pemilik Bot! save? Save ae🗿",
                   "rowId": `.owner`
                 },{
-                  "title": "☰ INFO BOT",
+                  "title": " INFO BOT",
                   "description": "Menampilkan Menu Info",
                   "rowId": `${_p}? info`
                 }],
@@ -534,28 +533,28 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: '𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓 𝐑𝐈𝐄𝐋🎮', 
+               displayText: 'Group Bot', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐎𝐖𝐍𝐄𝐑 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙🐤',
+               displayText: 'Pemilik Bot',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐃𝐎𝐍𝐀𝐒𝐈 𝐂𝐎𝐊🗿',
+               displayText: 'Donasi',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: ' 𝐂𝐑𝐄𝐃𝐈𝐓𝐒🎖️',
+               displayText: ' Thanks To',
                id: '.tqto',
              }
            }]
@@ -582,7 +581,7 @@ handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 handler.admin = false
 handler.botAdmin = false
 
@@ -606,18 +605,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Hallo"
-  if (time >= 4) {
-    res = "Hallo👋"
+  res = "tidur gih sana"
+  if (time >= 5) {
+    res = "Selamat pagi🌅 kak"
   }
   if (time > 10) {
-    res = "Hallo👋"
+    res = "Selamat siang🏜️ kak"
   }
   if (time >= 15) {
-    res = "Hallo👋"
+    res = "Selamat sore🌄 kak"
   }
   if (time >= 18) {
-    res = "Hallo👋"
+    res = "Selamat malam🌌 kak"
   }
   return res
 }
