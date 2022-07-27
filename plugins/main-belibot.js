@@ -1,17 +1,17 @@
 let handler = async (m, { conn }) => {
 const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '-1614953337@g.us',
     participant : '0@s.whatsapp.net'
     },
     message: {
     orderMessage: {
-    itemCount : 2022,
+    itemCount : 999999999999,
     status: 1,
     surface : 1,
-    message: 'LiST PRICE JOIN GROUP', 
-    orderTitle: `Krizyn`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    message: 'Kian botz', 
+    orderTitle: `kian`,
+    thumbnail: 'https://github.com/Kianganz1', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
