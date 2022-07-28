@@ -56,6 +56,7 @@ const defaultMenu = {
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
+⫹⫺ Kianganz1 
 ╰─────────────⬣
 `,
 }
@@ -321,9 +322,9 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: '🐤𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈 𝐂𝐎𝐊🐤',
+            buttonText: 'CLICK HERE ',
             listType: 1,
-            footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini🤖",
+            footerText: "*PILIH LIST MENU DI BAWAH INI*",
             mtype: 'listMessage',
             sections: [
               {
@@ -527,35 +528,35 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Saweria',
-               url: webm
+               displayText: 'KIAN BOTZ',
+               url: 
              }
 
            },
              {
              urlButton: {
-               displayText: '🥀', 
-               url: gc
+               displayText: 'KIAN BOTZ', 
+               url: 
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐎𝐖𝐍𝐄𝐑',
+               displayText: 'Owner',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐃𝐎𝐍𝐀𝐒𝐈 𝐂𝐎𝐊🗿',
+               displayText: 'Donasi',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: ' 𝐂𝐑𝐄𝐃𝐈𝐓𝐒🎖️',
+               displayText: 'Thanks To',
                id: '.tqto',
              }
            }]
