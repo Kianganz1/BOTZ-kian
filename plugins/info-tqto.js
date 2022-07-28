@@ -20,7 +20,9 @@ BIG THANKS TO
  Kianganz1
     📮https://github.com/Kianganz1
     
-THANKS PARA DONASI YANG TERHORMAT
+*THANKS PARA PERAKIT BOTZ*
+
+*jangan lupa follow github Kianganz1*
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
