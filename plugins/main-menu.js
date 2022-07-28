@@ -56,7 +56,7 @@ const defaultMenu = {
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
-⫹⫺ Kianganz1 
+⫹⫺ kianganz1 
 ╰─────────────⬣
 `,
 }
@@ -313,7 +313,6 @@ let menuu = `┏━━〔 ıll INFO USER llı 〕━㉿
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-   ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲
 
 ⫹⫺ Date  : ${week} ${date}
 ⫹⫺ Time : ${wib}
@@ -324,7 +323,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'CLICK HERE ',
             listType: 1,
-            footerText: "*PILIH LIST MENU DI BAWAH INI*",
+            footerText: "©Kianganz1",
             mtype: 'listMessage',
             sections: [
               {
@@ -528,21 +527,21 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'KIAN BOTZ',
-               url: 
+               displayText: 'My github',
+               url: webm
              }
 
            },
              {
              urlButton: {
-               displayText: 'KIAN BOTZ', 
-               url: 
+               displayText: 'My grub', 
+               url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: 'Owner KIANBOTZ',
                id: '.owner',
              }
 
@@ -556,7 +555,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: 'Thanks To',
+               displayText: ' Thanks To',
                id: '.tqto',
              }
            }]
