@@ -16,12 +16,12 @@ Ketik .menu Untuk Memulai Bot
 Runtime: ${uptime}`
    const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '6283845409710-1614953337@g.us',
     participant : '0@s.whatsapp.net'
     },
     message: {
     orderMessage: {
-    itemCount : 999999999,
+    itemCount : 2022,
     status: 1,
     surface : 1,
     message: `2022 © ${namebot}, 
