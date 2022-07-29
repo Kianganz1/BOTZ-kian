@@ -23,15 +23,11 @@
 > Klik [ SAWERIA ](https://saweria.co/Kricom) 
 
 # BISA JUGA LEWAT VIA LAIN
-》 DANA  = 081360482998
-》 PULSA = 081360482998
-》 OVO   = 081360482998
+ PULSA = 
 
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
-
 ### Preview bot
 ------------------
 - [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/b3b7dff3e285c84442c3c.jpg"></details>
