@@ -26,7 +26,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krizynofc/krizynMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/Kianganz1/BOTZ-kian)
 
 
 # Heroku Buildpack
