@@ -20,12 +20,7 @@
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-### Preview bot
-------------------
-- [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/b3b7dff3e285c84442c3c.jpg"></details>
-- [x] Reply bot <details><summary>Screenshot</summary><img src="https://telegra.ph/file/98c48528bd962f279ea7e.jpg"></details>
-- [x] Menu  <details><summary>Screenshot</summary><img src="https://telegra.ph/file/dc3565c53a09154ef745e.jpg"></details>
-------------------
+
 
 # Run On Heroku
 
