@@ -15,7 +15,7 @@
 </p>
 
 # DONASI BANH
- PULSA = https://github.com/Kianganz1
+ PULSA = 083845409710
 
 # Ambil Session Disini
 
@@ -42,20 +42,6 @@ WhatsApp Bot Multi Device
 | **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 | **Node.js**     | heroku/nodejs|
 
-# Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
-----|----
-[Ilman](https://github.com/ilmanhdyt) | [KIAN](https://github.com/Kianganz1) | [frostkri](https://github.com/frostkri)
- Author | Creator
- 
-# Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![KrizynOfc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
- Helpfully | Suhu? | Friends
-
----------
 
 ## Request Fitur To
 [`Creator Here`](https://wa.me/6283845409710?text=Banh+req+fitur) 
