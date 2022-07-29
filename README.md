@@ -9,21 +9,15 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/krizynofc"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/mhdfakri_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/c/hokenbeusz"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://github.com/Kianganz1"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/62895327934887">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6283845409710">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
-# DONATE ( DONASI UNTUK KRIZYN)
-> Jika ingin berdonasi untuk krizyn
-> Klik [ SAWERIA ](https://saweria.co/Kricom) 
-
 # BISA JUGA LEWAT VIA LAIN
- PULSA = 
+ PULSA = https://github.com/Kianganz1
 
 # Ambil Session Disini
 
@@ -53,14 +47,9 @@ WhatsApp Bot Multi Device
 # Creator Bot
  [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
+[Ilman](https://github.com/ilmanhdyt) | [KIAN](https://github.com/Kianganz1) | [frostkri](https://github.com/frostkri)
  Author | Creator
  
-### KRIZYN OFC STATISTICS
-
-[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
-
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
  [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![KrizynOfc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc)
@@ -71,4 +60,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/62895327934887?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6283845409710?text=Banh+req+fitur) 
